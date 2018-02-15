@@ -1,0 +1,19 @@
+{
+  "name": "ts-types-paho-mqtt",
+  "version": "1.0.4",
+  "description": "@types/paho-mqtt TypeScript Definitions modified for direct use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igaitan/ts-types-paho-mqtt.git"
+  },
+  "author": "ignacio.gaitan@a3gconsultores.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igaitan/ts-types-paho-mqtt/issues"
+  },
+  "homepage": "https://github.com/igaitan/ts-types-paho-mqtt#readme"
+}
